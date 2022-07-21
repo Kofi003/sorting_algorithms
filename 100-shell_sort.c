@@ -1,7 +1,6 @@
 /*
  * File: 100-shell_sort.c
- * Auth: Michael Wekesa
- *       Nicholas M Mwanza
+ * Auth: Amissah Prince
  */
 
 #include "sort.h"

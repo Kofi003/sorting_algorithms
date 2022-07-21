@@ -1,7 +1,6 @@
 /*
  * File: 1000-sort_deck.c
- * Auth: Nicholas M Mwanza
- *       Michael Wekesa
+ * Auth: Amissah Prince
  */
 
 #include "deck.h"

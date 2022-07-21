@@ -1,7 +1,6 @@
 /*
  * File: 102-counting_sort.c
- * Auth: Nicholas M Mwanza
- *       Michael Wekesa
+ * Auth: Amissah Prince
  */
 
 #include "sort.h"

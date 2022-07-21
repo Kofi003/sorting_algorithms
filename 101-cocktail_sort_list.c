@@ -1,7 +1,6 @@
 /*
  * File: 101-cocktail_sort_list.c
- * Auth: Nicholas M Mwanza
- *       Michhael Wekesa
+ * Auth: Amissah Prince
  */
 
 #include "sort.h"

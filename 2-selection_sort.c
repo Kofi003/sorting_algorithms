@@ -1,7 +1,6 @@
 /*
  * File: 2-selection_sort.c
- * Auth: Nicholas M Mwanza
- *       Michael Wekesa
+ * Auth: Amissah Prince
  */
 
 #include "sort.h"

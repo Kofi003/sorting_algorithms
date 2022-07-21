@@ -1,7 +1,6 @@
 /*
  * File: 106-bitonic_sort.c
- * Auth: N.M.M
- *       M.W
+ * Auth: Amissah Prince
  */
 
 #include "sort.h"

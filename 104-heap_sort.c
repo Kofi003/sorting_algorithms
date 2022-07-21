@@ -1,7 +1,6 @@
 /*
  * File: 104-heap_sort.c
- * Auth: Nicholas M Mwanza
- *       Michael Wekesa
+ * Auth: Amissah Prince
  */
 
 #include "sort.h"
